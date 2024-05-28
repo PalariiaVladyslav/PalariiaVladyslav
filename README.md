@@ -10,6 +10,7 @@
 - 📫 How to reach me
 - Email: palariiaach3vladislavv@hotmail.com
 - Telegram: @Vladyslav
+- Whatsapp: @Vladyslav
 - Discord: bp7301103
 - https://www.linkedin.com/in/vladyslav-palariia-45518930b/
 <!---
