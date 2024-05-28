@@ -1,5 +1,5 @@
 - 👋 Hi,
-  I’m @PalariiaVladyslav, a professional ASP.Net Developer with 5+ years of developing maintainable, scalable, and efficient software products and services.
+- I’m @PalariiaVladyslav, a professional ASP.Net Developer with 5+ years of developing maintainable, scalable, and efficient software products and services.
   With experience in C#, ASP.NET, .NET Core, Azure, Angular and React, I have a strong background in building dynamic and responsive websites and web applications.Let's collaborate to transform your software vision into reality.
 
 - Backend Development - C#, ASP.NET Core,  ASP .NET MVC, Web API with ASP.NET, Entity Framework
@@ -8,10 +8,10 @@
 - Databases - MySQL, MS SQL, Azure SQL, MongoDB, PostgreSQL, Cosmos DB
 
 - 📫 How to reach me
-  Email: palariiaach3vladislavv@hotmail.com
-  Telegram: @Vladyslav
-  Discord: bp7301103
-  https://www.linkedin.com/in/vladyslav-palariia-45518930b/
+- Email: palariiaach3vladislavv@hotmail.com
+- Telegram: @Vladyslav
+- Discord: bp7301103
+- https://www.linkedin.com/in/vladyslav-palariia-45518930b/
 <!---
 
 - 👀
