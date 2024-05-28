@@ -12,7 +12,8 @@
 - Telegram: @Vladyslav
 - Whatsapp: @Vladyslav
 - Discord: bp7301103
-- https://www.linkedin.com/in/vladyslav-palariia-45518930b/
+- Fiverr: https://www.fiverr.com/s/XLRegAV
+- Linkedin: https://www.linkedin.com/in/vladyslav-palariia-45518930b/
 <!---
 
 - 👀
